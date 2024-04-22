@@ -14,7 +14,7 @@ A seleção de botões e elementos associados, chamados "personagens", em uma in
 
 ## Estrutura de Arquivos
 
-Site One Piece
+Site Dragon Ball
 - index.html
 - src (Organizado com as respesctivas paginas Imagens; CSS; JS)
 
